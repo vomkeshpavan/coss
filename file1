@@ -7,3 +7,9 @@ if
   y=2;
   z=x+y;
   print z;
+
+oooo "Am learning GIT with BASH"  
+
+Biscuit
+Chocolate
+CoolDrink
